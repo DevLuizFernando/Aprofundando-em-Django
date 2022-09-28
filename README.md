@@ -1,3 +1,3 @@
 # Aprofundando em django
 
- • Django rest-framework: Criação de uma api de matrículas dozero
+ • Django: Criação de uma aplicação web do zero utilizando python.
