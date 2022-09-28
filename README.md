@@ -1,2 +1,3 @@
 # Aprofundando em django
- django
+
+ • Django rest-framework: Criação de uma api de matrículas dozero
